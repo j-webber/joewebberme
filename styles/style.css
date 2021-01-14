@@ -1,0 +1,44 @@
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 5vw;
+}
+
+body {
+    font-family: Times, Georgia, serif;
+}
+
+h1, h2 {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 1.2rem;
+    margin-top: 1.6em;
+}
+
+ul {
+    padding-left: 1em;
+}
+
+p, li {
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.portrait {
+    margin-top: 1em;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    width: 175px;
+    float: right;
+}
